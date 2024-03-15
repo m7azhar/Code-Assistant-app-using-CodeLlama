@@ -22,11 +22,11 @@ Currently, this readme provides instructions for local setup. Public deployment 
 The specific libraries needed will depend on your chosen environment. You might need to install libraries like requests, json, and gradio.
 
 - **Set Up Code Lama Access**:
-1.Download ollamafrom chrome.
-open command prompt and type command
-$cd C:\Users\M7\Desktop\Code-Assistant-Code-Assistant-main
-$ollama create codeguru -f modelfile
-$ollama run codeguru
+- Download ollamafrom chrome.
+- open command prompt and type command
+- $cd C:\Users\M7\Desktop\Code-Assistant-Code-Assistant-main
+- $ollama create codeguru -f modelfile
+- $ollama run codeguru
 
 - **Run the Application**:
 Once you have everything set up, you can execute the Python script to launch the Code Guru interface.
