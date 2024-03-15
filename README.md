@@ -1,4 +1,4 @@
-# Code-Assistant-app-using-CodeLlama" 
+# Code-Assistant-app-using-CodeLlama
 
 ## Code Guru: Your AI-powered Coding Assistant
 This project implements a code assistant application named Code Guru, powered by the capabilities of Code Lama, a large language model from Meta AI.
