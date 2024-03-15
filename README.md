@@ -35,3 +35,7 @@ The specific libraries needed will depend on your chosen environment. You might 
  - **Run the Application**:
 Once you have everything set up, you can execute the Python script to launch the Code Guru interface.
 - $python app.py
+
+# Output
+
+![Screenshot (20)](https://github.com/m7azhar/Code-Assistant-app-using-CodeLlama/assets/102148274/16febcad-3c4b-4bed-a228-e4921ea63083)
