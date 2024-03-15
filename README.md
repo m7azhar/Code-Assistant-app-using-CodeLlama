@@ -22,11 +22,16 @@ Currently, this readme provides instructions for local setup. Public deployment 
 The specific libraries needed will depend on your chosen environment. You might need to install libraries like requests, json, and gradio.
 
 - **Set Up Code Lama Access**:
-- Download ollamafrom chrome.
-- open command prompt and type command
+- Download ollama from chrome.
+- open command prompt and type the following command
 - $cd C:\Users\M7\Desktop\Code-Assistant-Code-Assistant-main
 - $ollama create codeguru -f modelfile
 - $ollama run codeguru
+  
+- **In VSCODE run the the folowing command**
+- $conda create -p  venv python=3.9 -y
+ - $pip install -r requirements.txt
 
-- **Run the Application**:
+ - **Run the Application**:
 Once you have everything set up, you can execute the Python script to launch the Code Guru interface.
+- $python app.py
