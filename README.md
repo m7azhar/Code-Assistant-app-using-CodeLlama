@@ -8,25 +8,25 @@ Code Guru is a user-friendly tool designed to assist programmers with their codi
 
 ## Features
 - **Language Support**: Code Guru can handle your coding inquiries in various programming languages, including Python and Java.
-- **Natural Language Interface:** Formulate your questions in plain English, and Code Guru will do its best to understand and provide helpful answers.
+- **Natural Language Interface**: Formulate your questions in plain English, and Code Guru will do its best to understand and provide helpful answers.
 ## Technology Stack
   This project utilizes the following technologies:
 
-- ** Code Lama:** A large language model from Meta AI, serving as the core engine for code comprehension and generation.
-- ** AMA:** An open-source tool that facilitates interaction with Code Lama.
-- ** Gradio:** A library used to create a user-friendly web interface for Code Guru.
+- ** Code Lama**: A large language model from Meta AI, serving as the core engine for code comprehension and generation.
+- ** AMA**: An open-source tool that facilitates interaction with Code Lama.
+- ** Gradio**: A library used to create a user-friendly web interface for Code Guru.
 ## How to Use Code Guru?
 Currently, this readme provides instructions for local setup. Public deployment is a work in progress.
 
-- ** Install Required Libraries:**
+- ** Install Required Libraries**:
 The specific libraries needed will depend on your chosen environment. You might need to install libraries like requests, json, and gradio.
 
-- ** Set Up Code Lama Access:**
-- 1.Download ollamafrom chrome.
+- ** Set Up Code Lama Access**:
+- ** 1.Download ollamafrom chrome.
 open command prompt and type command
 $cd C:\Users\M7\Desktop\Code-Assistant-Code-Assistant-main
 $ollama create codeguru -f modelfile
 $ollama run codeguru
 
-- ** Run the Application:**
+- ** Run the Application**:
 Once you have everything set up, you can execute the Python script to launch the Code Guru interface.
