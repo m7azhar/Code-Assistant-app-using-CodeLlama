@@ -7,7 +7,7 @@ This project implements a code assistant application named Code Guru, powered by
 Code Guru is a user-friendly tool designed to assist programmers with their coding endeavors. It leverages the power of Code Lama, enabling you to ask natural language questions about your code and receive informative responses.
 
 ## Features
-- **Language Support**: Code Guru can handle your coding inquiries in various programming languages, including Python and Java.
+- Language Support: Code Guru can handle your coding inquiries in various programming languages, including Python and Java.
 - **Natural Language Interface**: Formulate your questions in plain English, and Code Guru will do its best to understand and provide helpful answers.
 ## Technology Stack
   This project utilizes the following technologies:
